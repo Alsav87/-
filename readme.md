@@ -15,11 +15,10 @@ License: [MIT](./license.md)
 3. [git init](./init.md)
 4. [git commit](./commit.md)
 5. [git clone](./clone.md)
-6. [git remote add](./remote.md)
-7. [git fetch](./fetch.md) 
-8. [git merge](./merge.md)
-9. [git pull](./pull.md)
-10. [git push](./push.md)
+6. [git fetch](./fetch.md) 
+7. [git merge](./merge.md)
+8. [git pull](./pull.md)
+9. [git push](./push.md)
 
 #### Получение данных о состоянии репозитория
 
